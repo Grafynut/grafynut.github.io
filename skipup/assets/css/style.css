@@ -643,6 +643,10 @@ section .product{
 	.bannner .img-slider{
 		height: 750px;
 	}
+
+	html, body{
+		max-width: 100%;
+		overflow-x: hidden ;
 }
 
 /*1420px*/
